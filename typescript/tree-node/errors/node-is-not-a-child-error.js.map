@@ -1,0 +1,1 @@
+{"version":3,"file":"node-is-not-a-child-error.js","sourceRoot":"","sources":["node-is-not-a-child-error.ts"],"names":[],"mappings":"AAAA,OAAO,EAAC,YAAY,EAAC,MAAM,iBAAiB,CAAC;AAG7C,MAAM,OAAO,oBAAkC,SAAQ,YAAY;IAElD;IACA;IAFb,YACa,IAAiB,EACjB,aAA0B;QAEnC,KAAK,CAAC,wCAAwC,CAAC,CAAC;QAHvC,SAAI,GAAJ,IAAI,CAAa;QACjB,kBAAa,GAAb,aAAa,CAAa;IAGvC,CAAC;CACJ"}

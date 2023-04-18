@@ -1,0 +1,1 @@
+{"version":3,"file":"node-cannot-append-itself-error.js","sourceRoot":"","sources":["node-cannot-append-itself-error.ts"],"names":[],"mappings":"AAAA,OAAO,EAAC,YAAY,EAAC,MAAM,iBAAiB,CAAC;AAG7C,MAAM,OAAO,2BAAyC,SAAQ,YAAY;IAEzD;IACA;IAFb,YACa,UAAuB,EACvB,SAAsB;QAE/B,KAAK,CAAC,mCAAmC,CAAC,CAAC;QAHlC,eAAU,GAAV,UAAU,CAAa;QACvB,cAAS,GAAT,SAAS,CAAa;IAGnC,CAAC;CACJ"}
